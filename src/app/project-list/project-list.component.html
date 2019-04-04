@@ -1,0 +1,8 @@
+<div class="container">
+  <div *ngFor="let project of projects | async" (click)="goToDetailPage(project)" class="project">
+    <h2>
+      {{project.title}}
+      {{project.$key}}
+    </h2>
+  </div>
+</div>

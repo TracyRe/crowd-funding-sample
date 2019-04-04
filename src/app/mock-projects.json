@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "title": "Title-1",
+      "type": "project",
+      "category": "art",
+      "requestor": "tracy",
+      "goal": "10000",
+      "description": "There sure is a description that will go here",
+      "reward": "undying gratitude"
+    },
+    {
+      "title": "Title-2",
+      "type": "charity",
+      "category": "water",
+      "requestor": "Ben",
+      "goal": "10000",
+      "description": "There sure is a description that will go here",
+      "reward": "undying gratitude"
+    },
+    {
+      "title": "Title-3",
+      "type": "charity",
+      "category": "housing",
+      "requestor": "tracy",
+      "goal": "10000",
+      "description": "There sure is a description that will go here",
+      "reward": "undying gratitude"
+    },
+    {
+      "title": "Title-4",
+      "type": "project",
+      "category": "game",
+      "requestor": "ward",
+      "goal": "10000",
+      "description": "There sure is a description that will go here",
+      "reward": "undying gratitude"
+    },
+    {
+      "title": "Title-5",
+      "type": "project",
+      "category": "art",
+      "requestor": "Sally",
+      "goal": "10000",
+      "description": "There sure is a description that will go here",
+      "reward": "undying gratitude"
+    }
+  ]
+}

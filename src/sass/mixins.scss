@@ -1,0 +1,15 @@
+//mixins
+
+@mixin size($width, $height) {
+  $width: width;
+  $height: height;
+}
+
+@mixin cushion($padding, $margin) {
+  $padding: padding;
+  $margin: margin;
+}
+
+@mixin border($size, $color) {
+  border: $size solid $color;
+}
